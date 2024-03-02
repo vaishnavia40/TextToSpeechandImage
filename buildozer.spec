@@ -57,7 +57,7 @@ android.permissions = RECORD_AUDIO,INTERNET,ACCESS_NETWORK_STATE
 #
 
 # (bool) Indicate if the application should be fullscreen or not
-fullscreen = 0
+fullscreen = 1
 
 # (int) Target Android API, should be as high as possible.
 android.api = 31
